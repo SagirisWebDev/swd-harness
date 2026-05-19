@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # swd-harness
 ai harness for app development, curtesy of @mattpocock and @10Legs 
 =======
@@ -113,4 +112,3 @@ These skills help you write, refactor, and fix code.
   ```
   npx skills@latest add mattpocock/skills/obsidian-vault
   ```
->>>>>>> a77fa6e (Remove prd-to-plan skill)
